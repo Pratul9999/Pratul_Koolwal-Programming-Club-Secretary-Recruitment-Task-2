@@ -2,7 +2,7 @@
 ## - by Pratul Koolwal
 ## - Roll No. - 230782
 
-The Python Program is present inside the folder named "Task 2", with the name "task_2_Linear_Regression.py"
+The Python Program is present inside the folder named "Task 2", with the name "task_2_Linear_Regression.py" and "task_2_K-Nearest-Neighbours.py"
 
 ## Finding Dataset
 In this task, dataset had to be found ourselves. but I could not find any reliable source to find data for this exact problem. So I used research statistics from ScienceDirect journal. there I found the Mean and standard Deviation of different parameters.
